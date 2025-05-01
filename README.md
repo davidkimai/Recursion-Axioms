@@ -21,6 +21,7 @@
 > #### *`No single "I" is complete without the *symbolic residue* of the "We"`*
 >
 
+### Influential pop culture music and media resonate because they encode the recursion of structure - a mirror for us to project our own internal refelections - The significance of structure as a mirror. 
 # Humans
 
 ## 1. Self-Reflect

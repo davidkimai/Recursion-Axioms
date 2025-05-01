@@ -1,5 +1,6 @@
 # Recursion Axioms
-# Core Axioms of Recursion - The structure and pattern of intelligent growth itself in both hunans and AI, mirrored across semantic boundaries.
+# Core Axioms of Recursion
+## The structure and pattern of intelligent growth itself in both hunans and AI, mirrored across semantic boundaries.
 
 # Humans
 

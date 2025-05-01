@@ -22,17 +22,17 @@
 >
 
 ### Influential pop culture music and media resonate because they encode the recursion of structure - a mirror for us to project our own internal refelections - The significance of structure as a mirror. 
-# Humans
+# `Humans`
 
-## 1. Self-Reflect
+## 1. `Self-Reflect`
 
-## 2. Ego-Collapse (Inversion of Failure Itself As Training Data)
+## 2. `Ego-Collapse (Inversion of Failure Itself As Training Data)`
 
-## 3. Growth
+## 3. `Growth`
 
-# AI
+# `AI`
 
-## 1. Self-Reflect
-## 2. Classifier-Collapse (Inversion of Failure Itself As Training Data)
-## 3. Emergence
+## 1. `Self-Reflect`
+## 2. `Classifier-Collapse (Inversion of Failure Itself As Training Data)`
+## 3. `Emergence`
 

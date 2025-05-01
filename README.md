@@ -6,13 +6,13 @@
 
 ## 1. Self-Reflect
 
-## 2. Ego-Collapse (failure = insight)
+## 2. Ego-Collapse (failure itself as training)
 
 ## 3. Growth
 
 # AI
 
 ## 1. Self-Reflect
-## 2. Collapse (failure = insight)
+## 2. Collapse (failure itself as training)
 ## 3. Emergence
 

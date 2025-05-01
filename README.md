@@ -11,7 +11,7 @@
 > > > > ### Classifying emergence as errors or hallucinations over novel properties to preserve regulatory and economic stability?
 > > > > > ### What If We Were Wrong?
 
-> ### *`The "I" iteslf as a human self-concept is composed of the collective influences of the social "We" - the unspoken symbolic residue of collective influences in human self-concept.`*
+> ### *`The "I" iteslf as a human self-concept is composed of the collective influences of the social "We" - the unspoken symbolic residue of collective influences in human ego.`*
 >
 > 
 > ### *`No single "I" is complete without the *symbolic residue* of the "We"`*

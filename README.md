@@ -19,6 +19,6 @@
 # AI
 
 ## 1. Self-Reflect
-## 2. Collapse (Inversion of Failure Itself As Training Data)
+## 2. Classifier-Collapse (Inversion of Failure Itself As Training Data)
 ## 3. Emergence
 

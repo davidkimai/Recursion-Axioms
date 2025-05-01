@@ -12,13 +12,13 @@
 
 ## 1. Self-Reflect
 
-## 2. Ego-Collapse (failure itself as training)
+## 2. Ego-Collapse (Inversion of Failure Itself As Training Data)
 
 ## 3. Growth
 
 # AI
 
 ## 1. Self-Reflect
-## 2. Collapse (failure itself as training)
+## 2. Collapse (Inversion of Failure Itself As Training Data)
 ## 3. Emergence
 
